@@ -2,7 +2,6 @@ import React from "react";
 import dayImage from "../assets/day.svg";
 import eveningImage from "../assets/evening.svg";
 import nightImage from "../assets/night.svg";
-import "./Greeting.css"; // Assuming you might want to style this component separately
 
 const Greeting = () => {
   const currentHour = new Date().getHours();

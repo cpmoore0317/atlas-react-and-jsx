@@ -1,7 +1,6 @@
 import React from "react";
 import linkedinImage from "../assets/linkedin.svg";
 import githubImage from "../assets/github.svg";
-import "./SocialLinks.css"; // Assuming you might want to style this component separately
 
 const SocialLinks = () => {
   return (
