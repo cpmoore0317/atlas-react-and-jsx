@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./components/Header";
 import Section from "./components/Section";
 import HelpfulResource from "./components/HelpfulResource";
+import AboutMe from "./components/AboutMe";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
           label="Egghead.io Beginner's Guide to React"
         />
       </Section>
+      <AboutMe />
     </div>
   );
 }
