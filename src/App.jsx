@@ -5,8 +5,6 @@ function App() {
   return (
     <div className="app">
       <Header />
-      {/* Other components or content can go here */}
-      <div>Hello Atlas</div>
     </div>
   );
 }
